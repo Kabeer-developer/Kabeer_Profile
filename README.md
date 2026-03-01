@@ -1,23 +1,158 @@
-# 💫 About Me:  👋 Hey there, I'm Kabeer A
-💻 B.Tech CSE Student | Front-End Developer
-🚀 Passionate about building interactive, responsive, and user-friendly web applications.
-😊 Front-end developer eager to learn, adapt, and gain hands-on experience in real-world projects. Passionate about creating responsive, user-friendly web applications           using modern technologies.
+# Kabeer A
 
+```typescript
+const profile = {
+  name: "Kabeer A",
+  bio: "🚀 Full Stack MERN Developer | 💻 Pre-final year CS student @ CMR University | 🔨 Building SaaS platforms, e-commerce solutions & community apps | 📊 20+ projects | 🎯 Open to internship opportunities",
+  currentWork: "Building full-stack web applications using MERN stack (MongoDB, Express.js, React.js, Node.js). Recently developed Scan2Print - a SaaS platform for local print shops, SkillSwap - a community skill barter platform, and ShopSmart - an e-commerce solution with admin dashboard.",
+  learning: [
+    "Advanced React patterns and state management (Redux, Context API)",
+    "Microservices architecture and containerization (Docker, Kubernetes)",
+    "TypeScript for type-safe JavaScript development",
+    "Modern backend frameworks and GraphQL",
+    "CI/CD pipelines and automated testing",
+    "System design and scalability patterns",
+    "Cloud platforms (AWS/Azure) and serverless architectures"
+  ],
+  interests: [
+    "Full-stack web development and scalable system architecture",
+    "Building applications that solve real-world problems",
+    "Real-time communication systems (Socket.io, WebRTC)",
+    "Cloud deployment and DevOps practices",
+    "Open source contributions and collaborative development",
+    "UI/UX design and modern frontend frameworks"
+  ],
+  skills: [
+    "React",
+    "Next.js",
+    "Tailwind",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "JavaScript"
+  ]
+}
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kabeer__ar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/kabeer-a-003b80290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kabeeratwork7@gmail.com) 
+## 🔭 I'm currently working on
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kabeer-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kabeer-developer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-developer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Building full-stack web applications using MERN stack (MongoDB, Express.js, React.js, Node.js). Recently developed:
+- **Scan2Print** - A SaaS platform for local print shops
+- **SkillSwap** - A community skill barter platform
+- **ShopSmart** - An e-commerce solution with admin dashboard
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kabeer-developer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌱 I'm currently learning
+
+- Master advanced React patterns and state management (Redux, Context API)
+- Deepen understanding of microservices architecture and containerization (Docker, Kubernetes)
+- Learn TypeScript for type-safe JavaScript development
+- Explore modern backend frameworks and GraphQL
+- Gain hands-on experience with CI/CD pipelines and automated testing
+- Study system design and scalability patterns for enterprise applications
+- Develop expertise in cloud platforms (AWS/Azure) and serverless architectures
+
+## 👀 I'm interested in
+
+- Full-stack web development and scalable system architecture
+- Building applications that solve real-world problems for local communities and businesses
+- Real-time communication systems (Socket.io, WebRTC)
+- Cloud deployment and DevOps practices
+- Open source contributions and collaborative development
+- UI/UX design and modern frontend frameworks
+
+## 🔝 Most Used Languages
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-developer&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabeer-developer&theme=dark&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+    "HTML5",
+    "CSS3",
+    "Redux Toolkit"
+  ],
+  "backend": [
+    "Node.js",
+    "Express.js",
+    "REST API",
+    "JWT Authentication",
+    "Socket.io"
+  ],
+  "database": [
+    "MongoDB",
+    "Mongoose"
+  ],
+  "tools": [
+    "Git/GitHub",
+    "Postman",
+    "VS Code",
+    "Vercel",
+    "Render"
+  ],
+  "languages": [
+    "JavaScript (ES6+)"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "Kabeer-developer",
+  website: "https://my-portfolio-tau-ecru-44.vercel.app/",
+  instagram: "kabeer__ar"
+}
+```
+
+<div align="center">
+  <a href="https://github.com/Kabeer-developer"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://my-portfolio-tau-ecru-44.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://instagram.com/kabeer__ar"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kabeer-developer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "kabeeratwork7@gmail.com",
+  phone: "+91 8861197933",
+  location: "Bengaluru, India"
+}
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kabeer-developer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects! 🚀");
+
+process.exit(0); // Until next time 👋
+```
+
+**⭐️ From [Kabeer-developer](https://github.com/Kabeer-developer)**
+
+</div>
